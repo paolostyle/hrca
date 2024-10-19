@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: hrca
+    runtime: node
+    region: frankfurt
+    plan: free
+    repo: https://github.com/paolostyle/hrca
+    buildCommand: bun install && bun run build
+    startCommand: bun start
+
+databases:
+  - plan: free
+    name: hrca-db
+    region: frankfurt
