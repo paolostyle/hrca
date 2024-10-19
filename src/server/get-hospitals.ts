@@ -2,10 +2,19 @@
 import { Browser } from 'happy-dom';
 import { v5 as uuidv5 } from 'uuid';
 import type { HospitalData } from '~/types';
-
-const namespace = '2788c388-449d-4829-a1b4-48fb43c305f3';
+import { db } from './db';
 
 export async function getHospitals() {
+  return await db.selectFrom('hospitals').selectAll().execute();
+}
+
+export async function syncHospitalsData() {
+  const hospitals = await fetchHospitals();
+  await saveHospitals(hospitals);
+  return hospitals;
+}
+
+async function fetchHospitals() {
   const browser = new Browser();
   const page = browser.newPage();
 
@@ -23,14 +32,25 @@ export async function getHospitals() {
     const name = rawName.innerHTML.trim().replaceAll('<br>', ' ');
 
     return {
-      id: uuidv5(name, namespace),
+      id: uuidv5(name, process.env.NITRO_UUID_NAMESPACE),
       name,
       address: address.innerHTML.replaceAll('<br>', ', ').trim(),
       hasAccreditation,
     };
   });
-
   await browser.close();
 
   return hospitals;
+}
+
+async function saveHospitals(hospitals: HospitalData[]) {
+  await db
+    .insertInto('hospitals')
+    .values(hospitals)
+    .onConflict((oc) =>
+      oc.doUpdateSet((eb) => ({
+        hasAccreditation: eb.ref('excluded.hasAccreditation'),
+      })),
+    )
+    .execute();
 }

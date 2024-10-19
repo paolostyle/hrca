@@ -1,0 +1,308 @@
+[
+  {
+    "id": "402b2b35-a856-577c-88c8-40589faf9f09",
+    "name": "Specjalistyczny Szpital Wojewódzki w Ciechanowie, Oddział Chirurgii Ogólnej, Onkologicznej i Bariatrycznej",
+    "address": "06-400 Ciechanów, ul. Powstańców Wielkopolskich 2",
+    "hasAccreditation": false
+  },
+  {
+    "id": "a5df01fa-d239-58fa-81f4-16b0aae0f7b6",
+    "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Garwolinie, Oddział Chirurgiczny",
+    "address": "08-400 Garwolin, ul. Lubelska 50",
+    "hasAccreditation": true
+  },
+  {
+    "id": "e76ccaba-b5a9-5383-86ca-5cfe7964bfba",
+    "name": "Samodzielny Publiczny Specjalistyczny Szpital Zachodni im. św. Jana Pawła II, Oddział Chirurgii Ogólnej",
+    "address": "05-825 Grodzisk Mazowiecki, ul. Daleka 11",
+    "hasAccreditation": true
+  },
+  {
+    "id": "ecbb5348-2c4c-578a-9b83-9ecae9d9b411",
+    "name": "POWIATOWE CENTRUM MEDYCZNE W GRÓJCU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Oddział Chirurgii Ogólnej",
+    "address": "05-600 Grójec, ul. Księdza Piotra Skargi 10",
+    "hasAccreditation": false
+  },
+  {
+    "id": "285ae0b8-aba9-575a-bf0d-e99d04c74c49",
+    "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej Szpital w Iłży, Dział Chirurgii Ogólnej (27-100 Iłża, ul. dr Anki 4)",
+    "address": "27-100 Iłża, ul. Bodzentyńska 17",
+    "hasAccreditation": false
+  },
+  {
+    "id": "481c7ac1-f5df-5feb-b86f-cb8d36555648",
+    "name": "MAZOWIECKIE CENTRUM REHABILITACJI \"STOCER\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Szpital Chirurgii Urazowej św. Anny, Oddział Chirurgii Ogólnej i Gastroenterologicznej (02-384 Warszawa, ul. Barska 16/20)",
+    "address": "05-510 Konstancin-Jeziorna, ul. Antoniego Wierzejewskiego 12",
+    "hasAccreditation": false
+  },
+  {
+    "id": "c08d895f-5573-56cd-a01c-8c3769b9ad32",
+    "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Kozienicach, Oddział Chirurgii Ogólnej",
+    "address": "26-900 Kozienice, Aleja Władysława Sikorskiego 10",
+    "hasAccreditation": false
+  },
+  {
+    "id": "489698c5-59f2-5286-949f-2425b70dbc9b",
+    "name": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ, Oddział chirurgii ogólnej",
+    "address": "27-300 Lipsko, ul. Jędrzeja Śniadeckiego 2",
+    "hasAccreditation": true
+  },
+  {
+    "id": "5a40d971-5461-5f83-b898-b6f68234a5e9",
+    "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej- Zespół Zakładów, Oddział Chirurgii Ogólnej",
+    "address": "06-200 Maków Mazowiecki, ul. Wincentego Witosa 2",
+    "hasAccreditation": true
+  },
+  {
+    "id": "709ddb00-c531-55a3-beb3-034a43477539",
+    "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Mińsku Mazowieckim, Oddział chirurgiczny ogólny/Klinika chirurgii ogólnej Uczelni Łazarskiego",
+    "address": "05-300 Mińsk Mazowiecki, ul. Szpitalna 37",
+    "hasAccreditation": true
+  },
+  {
+    "id": "e6937e72-b4f3-52c8-8c2c-93f0ce0de992",
+    "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mławie, Oddział Chirurgii Ogólnej",
+    "address": "06-500 Mława, ul. Anny Dobrskiej 1",
+    "hasAccreditation": false
+  },
+  {
+    "id": "e47c664b-60f6-528e-b050-6f28030b7ecd",
+    "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowym Mieście nad Pilicą, Oddział Chirurgii Ogólnej",
+    "address": "26-420 Nowe Miasto nad Pilicą, ul. Tomaszowska 43",
+    "hasAccreditation": false
+  },
+  {
+    "id": "8c4f24f3-38d6-5aea-a5f0-1f39e752bd89",
+    "name": "Mazowiecki Szpital Specjalistyczny im. dr. Józefa Psarskiego w Ostrołęce, Oddział Chirurgii Ogólnej im. dr Jerzego Olszewskiego, Poradnia chirurgii ogólnej",
+    "address": "07-410 Ostrołęka, Aleja Jana Pawła II 120A",
+    "hasAccreditation": false
+  },
+  {
+    "id": "8a97a3a1-62b2-58e1-90a6-9576a3301c9b",
+    "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Ostrowi Mazowieckiej, Oddział Chirurgii Ogólnej, Poradnia Chirurgii Ogólnej",
+    "address": "07-300 Ostrów Mazowiecka, ul. Stanisława Duboisa 68",
+    "hasAccreditation": true
+  },
+  {
+    "id": "24028c3e-597f-5f2d-9c0b-24bb2ecda371",
+    "name": "POWIATOWE CENTRUM ZDROWIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Oddział Chirurgiczny",
+    "address": "05-400 Otwock, ul. Stefana Batorego 44",
+    "hasAccreditation": false
+  },
+  {
+    "id": "f4dcdea1-5926-5013-a6ce-99485960b972",
+    "name": "\"EMC PIASECZNO\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, NIEPUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ SZPITAL ŚW. ANNY W PIASECZNIE Oddział Chirurgii Ogólnej",
+    "address": "05-500 Piaseczno, ul. Mickiewicza 39",
+    "hasAccreditation": true
+  },
+  {
+    "id": "b5f0013a-d549-5ce6-b8ae-bffa7a11eb70",
+    "name": "Wojewódzki Szpital Zespolony, I Oddział Chirurgii Ogólnej i Onkologicznej",
+    "address": "09-400 Płock, ul. Medyczna 19",
+    "hasAccreditation": true
+  },
+  {
+    "id": "f7e3e1d2-add3-5450-b41a-32ea12b2c17d",
+    "name": "Wojewódzki Szpital Zespolony w Płocku, II Oddział Chirurgii Ogólnej i Onkologicznej, Poradnia Chirurgii Ogólnej",
+    "address": "09-400 Płock, ul. Medyczna 19",
+    "hasAccreditation": true
+  },
+  {
+    "id": "45986d03-86d2-5501-859b-7506d7313ba5",
+    "name": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ IM.MARSZAŁKA JÓZEFA PIŁSUDSKIEGO W PŁOŃSKU, Oddział chirurgiczny z pododdziałem urologicznym",
+    "address": "09-100 Płońsk, ul. Henryka Sienkiewicza 7",
+    "hasAccreditation": true
+  },
+  {
+    "id": "4f00774d-87c4-5fbb-b6e1-f7b38d72d27f",
+    "name": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W PRUSZKOWIE, Oddział Chirurgiczny",
+    "address": "05-800 Pruszków, ul. Armii Krajowej 2/4",
+    "hasAccreditation": false
+  },
+  {
+    "id": "3c2bd0ce-ee5e-5f26-ad30-cfd799b26c3e",
+    "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Przasnyszu, Oddział Chirurgiczny",
+    "address": "06-300 Przasnysz, ul. Sadowa 9",
+    "hasAccreditation": true
+  },
+  {
+    "id": "b01932ec-df07-5bd1-a265-2440b9410f07",
+    "name": "SZPITAL POWIATOWY GAJDA-MED SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Oddział Chirurgii Ogólnej",
+    "address": "06-102 Pułtusk, ul. Teofila Kwiatkowskiego 19",
+    "hasAccreditation": true
+  },
+  {
+    "id": "9a5e5c11-2029-5822-a995-f7466e5343b1",
+    "name": "MAZOWIECKI SZPITAL SPECJALISTYCZNY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Kliniczny oddział chirurgii ogólnej, onkologicznej i metabolicznej",
+    "address": "26-617 Radom, ul. Juliana Aleksandrowicza 5",
+    "hasAccreditation": true
+  },
+  {
+    "id": "ed65f4ea-3dbc-5f3b-9c4c-b9c240e83345",
+    "name": "Radomski Szpital Specjalistyczny im. Dr Tytusa Chałubińskiego, Oddział Chirurgii Ogólnej (26-610 Radom, ul. Adolfa Tochtermana 1)",
+    "address": "26-610 Radom, ul. Lekarska 4",
+    "hasAccreditation": true
+  },
+  {
+    "id": "a21a1ea0-0414-56a5-8591-79f2c9d16a65",
+    "name": "Mazowiecki Szpital Wojewódzki im. św. Jana Pawła II w Siedlcach Spółka z ograniczoną odpowiedzialnością, Siedlecki Szpital Specjalistyczny Oddział Chirurgii Ogólnej i Naczyniowej",
+    "address": "08-110 Siedlce, ul. Księcia Józefa Poniatowskiego 26",
+    "hasAccreditation": true
+  },
+  {
+    "id": "b651ab09-0f7f-5566-8a2d-d6d0015fa04f",
+    "name": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W SIEDLCACH, Oddział Chirurgii Ogólnej (08-110 Siedlce, ul. Starowiejska 15)",
+    "address": "08-110 Siedlce, ul. Kilińskiego 29",
+    "hasAccreditation": true
+  },
+  {
+    "id": "a5c04076-71e2-5ae5-a284-fab6cf0ec274",
+    "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej, Oddział Chirurgiczny",
+    "address": "09-200 Sierpc, ul. Juliusza Słowackiego 32",
+    "hasAccreditation": false
+  },
+  {
+    "id": "8b870aa1-c7fc-5a0c-91fa-3f85a813cd38",
+    "name": "Zespół Opieki Zdrowotnej \"Szpitala Powiatowego\" w Sochaczewie, Oddział Chirurgii Ogólnej",
+    "address": "96-500 Sochaczew, ul. Batalionów Chłopskich 3/7",
+    "hasAccreditation": true
+  },
+  {
+    "id": "9388400a-ea4e-5a0b-9c7a-51a059ae1bca",
+    "name": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W SOKOŁOWIE PODLASKIM, Oddział Chirurgiczny Ogólny",
+    "address": "08-300 Sokołów Podlaski, ul. Księdza Bosco 5",
+    "hasAccreditation": true
+  },
+  {
+    "id": "e8127ede-6c31-564c-9205-d0048642c410",
+    "name": "Mazowiecki Szpital Bródnowski Spółka z ograniczoną odpowiedzialnością, Zespół Oddziałów Chirurgii Ogólnej, Naczyniowej i Onkologicznej, I Katedra i Klinika Chirurgii Ogólnej i Naczyniowej Wydziału Lekarskiego WUM",
+    "address": "03-242 Warszawa, ul. Ludwika Kondratowicza 8",
+    "hasAccreditation": true
+  },
+  {
+    "id": "ecde74f0-79e0-53ab-b8c6-d685c7be9f42",
+    "name": "Międzyleski Szpital Specjalistyczny w Warszawie, Oddział chirurgii ogólnej, naczyniowej i onkologicznej",
+    "address": "04-749 Warszawa, ul. Bursztynowa 2",
+    "hasAccreditation": true
+  },
+  {
+    "id": "9319bf49-e3dc-5ccc-80a5-7e694213f325",
+    "name": "Państwowy Instytut Medyczny Ministerstwa Spraw Wewnętrznych i Administracji, Klinika Chirurgii Gastroenterologicznej i Transplantologii",
+    "address": "02-507 Warszawa, ul. Wołoska 137",
+    "hasAccreditation": true
+  },
+  {
+    "id": "c45883ba-05b7-5edd-b174-c32208a9b85d",
+    "name": "Samodzielny Publiczny Szpital Kliniczny im. prof. W. Orłowskiego Centrum Medycznego Kształcenia Podyplomowego, Oddział Kliniczny Chirurgii Ogólnej, Onkologicznej i Bariatrycznej, Klinika Chirurgii Ogólnej, Onkologicznej i Bariatrycznej CMKP",
+    "address": "00-416 Warszawa, ul. Czerniakowska 231",
+    "hasAccreditation": true
+  },
+  {
+    "id": "f2ae8893-2550-57f8-b932-abb145c18494",
+    "name": "Szpital Bielański im. ks. Jerzego Popiełuszki Samodzielny Publiczny Zakład Opieki Zdrowotnej, Oddział Chirurgiczny Ogólny, Klinika Chirurgii Kolorektalnej, Ogólnej i Onkologicznej CMKP",
+    "address": "01-809 Warszawa, ul. Cegłowska 80",
+    "hasAccreditation": true
+  },
+  {
+    "id": "f78e90e9-9f98-5a8d-81c9-5a14c1dd9931",
+    "name": "SZPITAL CZERNIAKOWSKI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Oddział chirurgii ogólnej i onkologicznej",
+    "address": "00-739 Warszawa, ul. Stępińska 19/25",
+    "hasAccreditation": true
+  },
+  {
+    "id": "f5672a3b-4c7e-5129-b432-6597bcc40394",
+    "name": "SZPITAL GROCHOWSKI IM.DR MED. RAFAŁA MASZTAKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Oddział Chirurgii Ogólnej, Onkologicznej i Rekonstrukcyjnej",
+    "address": "04-073 Warszawa, ul. Grenadierów 51/59",
+    "hasAccreditation": true
+  },
+  {
+    "id": "f3effe4a-6f51-540a-b41c-caeb4b0f9e4d",
+    "name": "Szpital Kliniczny Dzieciątka Jezus, Klinika Chirurgii Ogólnej i Transplantacyjnej",
+    "address": "02-005 Warszawa, ul. Williama Heerleina Lindleya 4",
+    "hasAccreditation": false
+  },
+  {
+    "id": "93b3aa09-117e-5188-bf84-b838ae76d682",
+    "name": "SZPITAL PRASKI P.W. PRZEMIENIENIA PAŃSKIEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Oddział Chirurgii Ogólnej i Onkologicznej",
+    "address": "03-401 Warszawa, Aleja Solidarności 67",
+    "hasAccreditation": true
+  },
+  {
+    "id": "9ec1a3a4-bd1d-5500-9b67-a97a1f8c09d9",
+    "name": "SZPITAL WOLSKI IM. DR ANNY GOSTYŃSKIEJ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Kliniczny Oddział chirurgii ogólnej i onkologicznej z częścią urazową",
+    "address": "01-211 Warszawa, ul. Marcina Kasprzaka 17",
+    "hasAccreditation": true
+  },
+  {
+    "id": "36db93f9-4e85-5b3a-953e-089c1cd02a0d",
+    "name": "Uniwersyteckie Centrum Kliniczne Warszawskiego Uniwersytetu Medycznego, Klinika Chirurgii Ogólnej Naczyniowej i Transplantacyjnej",
+    "address": "02-097 Warszawa, ul. Stefana Banacha 1A",
+    "hasAccreditation": false
+  },
+  {
+    "id": "69977aae-aa4d-5e9d-a4ee-ae808c10b5b1",
+    "name": "Uniwersyteckie Centrum Kliniczne Warszawskiego Uniwersytetu Medycznego, Klinika Chirurgii Ogólnej, Endokrynologicznej i Chorób Naczyń",
+    "address": "02-097 Warszawa, ul. Stefana Banacha 1A",
+    "hasAccreditation": false
+  },
+  {
+    "id": "a4cf9d5d-9ae1-5a39-9932-6dbbda8bb29f",
+    "name": "Uniwersyteckie Centrum Kliniczne Warszawskiego Uniwersytetu Medycznego, Klinika Chirurgii Ogólnej, Gastroenterologicznej i Onkologicznej",
+    "address": "02-097 Warszawa, ul. Stefana Banacha 1A",
+    "hasAccreditation": false
+  },
+  {
+    "id": "56ecefb6-83c8-588a-9ff1-609050d7c35c",
+    "name": "Uniwersyteckie Centrum Kliniczne Warszawskiego Uniwersytetu Medycznego, Klinika Chirurgii Transplantacyjnej i Wątroby",
+    "address": "02-097 Warszawa, ul. Stefana Banacha 1A",
+    "hasAccreditation": true
+  },
+  {
+    "id": "f4acc0c3-f8d2-5f00-99e6-61021c780c65",
+    "name": "WARSZAWSKI SZPITAL POŁUDNIOWY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Oddział Chirurgii Ogólnej i Proktologicznej",
+    "address": "02-781 Warszawa, ul. rtm. Witolda Pileckiego 99",
+    "hasAccreditation": true
+  },
+  {
+    "id": "61a7ff70-f4a3-5746-968a-2dfed75606e3",
+    "name": "WOJSKOWY INSTYTUT MEDYCZNY - PAŃSTWOWY INSTYTUT BADAWCZY, Klinika Chirurgii Ogólnej, Onkologicznej, Metabolicznej i Torakochirurgii",
+    "address": "04-141 Warszawa, ul. Szaserów 128",
+    "hasAccreditation": false
+  },
+  {
+    "id": "3c70b9f2-d9aa-5948-ae21-5d8df13c48d7",
+    "name": "WOJSKOWY INSTYTUT MEDYCZNY - PAŃSTWOWY INSTYTUT BADAWCZY, Oddział Chirurgii Ogólnej (05-119 Legionowo, ul. Zegrzyńska 8)",
+    "address": "04-141 Warszawa, ul. Szaserów 128",
+    "hasAccreditation": true
+  },
+  {
+    "id": "3239342c-3b43-50b2-a0e1-5397de1d3c0d",
+    "name": "SP ZOZ w Węgrowie, Szpital Powiatowy Oddział Chirurgiczny",
+    "address": "07-100 Węgrów, ul. Tadeusza Kościuszki 201",
+    "hasAccreditation": false
+  },
+  {
+    "id": "a7e5f974-5658-56a1-af04-64132a3dcf56",
+    "name": "Szpital Matki Bożej Nieustającej Pomocy w Wołominie, Oddział Chirurgiczny Ogólny Klinika Chirurgii Ogólnej Uczelni Łazarskiego",
+    "address": "05-200 Wołomin, ul. Gdyńska 1/3",
+    "hasAccreditation": true
+  },
+  {
+    "id": "4c16c193-2902-5f00-97d8-9f01f62c0c3c",
+    "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Wyszkowie, Oddział Chirurgiczny Ogólny",
+    "address": "07-200 Wyszków, ul. Komisji Edukacji Narodowej 1",
+    "hasAccreditation": false
+  },
+  {
+    "id": "6114d195-f030-5364-bb9e-309e7e8fd191",
+    "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Żurominie, Oddział Chirurgiczny Ogólny",
+    "address": "09-300 Żuromin, ul. Szpitalna 56",
+    "hasAccreditation": false
+  },
+  {
+    "id": "a934c084-9760-53f5-b846-75f89d26baf2",
+    "name": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Szpital imienia Zenona Tokarskiego, Oddział Chirurgii Ogólnej",
+    "address": "96-300 Żyrardów, ul. Bolesława Limanowskiego 30",
+    "hasAccreditation": false
+  }
+]
